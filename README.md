@@ -10,6 +10,7 @@
 * 자료구조
   * [10799 - 쇠막대기](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-10799.md)
   * [9012 - 괄호](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-9012.md)
+  * [1406 - 에디터](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-1406.md)
 * 기타
   * [11576 - Base Conversion](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-11576.md)
   * [1934 - 최소공배수](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-1934.md)
