@@ -20,3 +20,5 @@
   * [2609 - 최대공약수와 최소공배수](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-2609.md)
 
 ❌
+* 시뮬레이션
+  * [14891 - 톱니바퀴](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-14891.md)
