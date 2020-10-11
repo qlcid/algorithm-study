@@ -10,6 +10,8 @@
   * [1926 - 그림](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-1926.md)
   * [2178 - 미로 탐색](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-2178.md)
 * DP
+  * [1463 - 1로 만들기](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-1463.md)
+  * [2579 - 1로 만들기](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-2579.md)
 * 자료구조
   * [10799 - 쇠막대기](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-10799.md)
   * [9012 - 괄호](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-9012.md)
