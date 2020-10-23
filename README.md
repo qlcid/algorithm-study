@@ -13,6 +13,7 @@
 * DP
   * [1463 - 1로 만들기](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-1463.md)
   * [2579 - 계단 만들기](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-2579.md)
+  * [11726 - 2xn 타일링](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-11726.md)
 * 자료구조
   * [10799 - 쇠막대기](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-10799.md)
   * [9012 - 괄호](https://github.com/qlcid/algorithm-study/blob/master/boj/boj-9012.md)
